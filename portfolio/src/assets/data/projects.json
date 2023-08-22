@@ -1,0 +1,76 @@
+{
+    "projects": [
+        {
+            "name": "Spotless",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart, Python, Flask",
+            "image": "/images/projects/spotless.png",
+            "icon": "/images/projects/spotless-icon.png",
+            "link": "https://github.com/Lormenyo/Spotless"
+        },
+        {
+            "name": "ECG Power App",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart",
+            "image": "/images/projects/ecg.png",
+            "icon": "/images/projects/ecg-icon.png",
+            "link": "https://github.com/Lormenyo/Flutter-UI-Challenges/tree/master/ECG%20App"
+        },
+        {
+            "name": "Serial Shark",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart",
+            "image": "/images/projects/serialshark.png",
+            "icon": "/images/projects/serialshark-icon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.consterics.serialshark&hl=en_IE&gl=US"
+        },
+        {
+            "name": "Carbon Voice",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart, Python, Flask",
+            "image": "/images/projects/carbonvoice.png",
+            "icon": "/images/projects/carbonvoice-icon.png",
+            "link": "https://play.google.com/store/search?q=carbon%20voice&c=apps&hl=en_IE&gl=US"
+        },
+        {
+            "name": "LightSwitch",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart",
+            "image": "/images/projects/lightswitch.png",
+            "icon": "/images/projects/spotless-icon.png",
+            "link": "https://github.com/Lormenyo/Flutter-UI-Challenges/tree/master/Flutter_IOT/lightswitchApp"
+        },
+        {
+            "name": "Native App",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart",
+            "image": "/images/projects/native.png",
+            "icon": "/images/projects/native-icon.png",
+            "link": "#"
+        },
+        {
+            "name": "SaySay",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart, Python, Flask",
+            "image": "/images/projects/saysay.png",
+            "icon": "/images/projects/saysay-icon.png",
+            "link": "https://github.com/Lormenyo/SaySay"
+        },
+        {
+            "name": "JarToGo",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart",
+            "image": "/images/projects/jartogo.png",
+            "icon": "/images/projects/jartogo-icon.png",
+            "link": "https://github.com/Lormenyo/JarToGo"
+        },
+        {
+            "name": "Attendance Tracker",
+            "type": "ioS & Android Mobile App",
+            "stack": "Flutter, Dart",
+            "image": "/images/projects/attendance.png",
+            "icon": "/images/projects/spotless-icon.png",
+            "link": "https://github.com/Lormenyo/Attendance-Checker"
+        }
+    ]
+}
