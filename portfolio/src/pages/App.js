@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import NavBar from '../components/navBar/navBar';
 import IntroSection from '../components/introSection/introSection';
