@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import PropTypes from 'prop-types';
+// import React from 'react';
+// import PropTypes from 'prop-types';
 import './introSection.css';
 import profile from '../../assets/images/profile/profile.png';
 import lightProfile from '../../assets/images/profile/profile-pic.png';

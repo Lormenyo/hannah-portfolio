@@ -1,6 +1,6 @@
-import React from 'react';
+// import React from 'react';
 import PropTypes from 'prop-types';
-import styles from './appButton.css';
+// import styles from './appButton.css';
 
 const AppButton = ({text, handleClick}) => (
   <div className=''>
@@ -8,7 +8,10 @@ const AppButton = ({text, handleClick}) => (
   </div>
 );
 
-AppButton.propTypes = {};
+AppButton.propTypes = {
+  text: PropTypes.any,
+  handleClick: PropTypes.any
+};
 
 AppButton.defaultProps = {};
 

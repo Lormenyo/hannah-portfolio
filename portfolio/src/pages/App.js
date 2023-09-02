@@ -1,5 +1,6 @@
-import React from 'react';
+// import React from 'react';
 import './App.css';
+import '../index.css';
 import NavBar from '../components/navBar/navBar';
 import IntroSection from '../components/introSection/introSection';
 import ProjectSection from '../components/projectSection/projectSection';

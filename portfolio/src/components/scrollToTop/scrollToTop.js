@@ -1,10 +1,10 @@
-import React, { useEffect, useState, useRef } from 'react'
+import { useEffect, useState } from 'react'
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import './scrollToTop.css'
 
 const ScrollToTop = () => {
   const [isVisible, setIsVisible] = useState(false)
-  const ref = useRef(null);
+  // const ref = useRef(null);
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });

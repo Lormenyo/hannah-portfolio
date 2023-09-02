@@ -1,6 +1,6 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import styles from './appFooter.module.css';
+// import React from 'react';
+// import PropTypes from 'prop-types';
+// import styles from './appFooter.module.css';
 
 const AppFooter = () => (
   <div className="dark:bg-appBackground bg-white">

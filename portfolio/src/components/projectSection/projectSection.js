@@ -1,5 +1,5 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+// import React from 'react';
+// import PropTypes from 'prop-types';
 import  './projectSection.css';
 import AppProject from '../appProject/appProject';
 import projects from '../../assets/data/projects.json';

@@ -1,5 +1,4 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+// import React from 'react';
 import './contactSection.css';
 import AppButton from '../appButton/appButton';
 import medium from '../../assets/images/blogs/medium.png';
@@ -31,21 +30,21 @@ const ContactSection = () => {
       <div className='grid grid-cols-4 xs:grid-cols-4 sm:grid-cols-4 md:grid-cols-4 gap-4 mt-8 w-64'>
 
         <div className=''>
-          <a target="_blank" href="https://www.linkedin.com/in/hannah-lormenyo/"><img src={linkedIn} alt="" className='' /></a>
+          <a target="_blank" rel='noreferrer noopener' href="https://www.linkedin.com/in/hannah-lormenyo/"><img src={linkedIn} alt="" className='' /></a>
         </div>
 
         <div>
-          <a target="_blank" href="https://twitter.com/blessed_hl"><img src={github} alt="" className='' /></a>
-        </div>
-
-
-        <div>
-          <a target="_blank"  href="https://twitter.com/blessed_hl"> <img src={x} alt="" className='' /></a>
+          <a target="_blank" rel='noreferrer noopener' href="https://twitter.com/blessed_hl"><img src={github} alt="" className='' /></a>
         </div>
 
 
         <div>
-          <a target="_blank"  href="https://www.instagram.com/holygraildev/"><img src={instagram} alt="" className='' /></a>
+          <a target="_blank" rel='noreferrer noopener' href="https://twitter.com/blessed_hl"> <img src={x} alt="" className='' /></a>
+        </div>
+
+
+        <div>
+          <a target="_blank" rel='noreferrer noopener'  href="https://www.instagram.com/holygraildev/"><img src={instagram} alt="" className='' /></a>
         </div>
 
       </div>
@@ -57,7 +56,7 @@ const ContactSection = () => {
           <a href="https://medium.com/@lormenyoh"><img src={medium} alt="" className='rounded-lg' /></a>
         </div>
         <div>
-          <a target="_blank"  href="https://dev.to/lormenyo"><img src={dev} alt="" className='' /></a>
+          <a target="_blank"  rel='noreferrer noopener' href="https://dev.to/lormenyo"><img src={dev} alt="" className='' /></a>
         </div>
         <div>
           <a href="https://lormenyoh.hashnode.dev/"><img src={hashnode} alt="" className='' /></a>
@@ -68,10 +67,10 @@ const ContactSection = () => {
       <h2 className='text-appBackground dark:text-white font-semibold text-xl'>Youtube Channels</h2>
       <div className='grid xs:grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4 youTubeChannelGrid mt-8'>
         <div>
-          <a target="_blank"  href="https://www.youtube.com/c/HannahLormenyo"><img src={hannahlormenyo} alt="" className='rounded-lg' /></a>
+          <a target="_blank" rel='noreferrer noopener' href="https://www.youtube.com/c/HannahLormenyo"><img src={hannahlormenyo} alt="" className='rounded-lg' /></a>
         </div>
         <div>
-          <a target="_blank"  href="https://www.youtube.com/@holygraildev"><img src={holygraildev} alt="" className='rounded-lg' /></a>
+          <a target="_blank" rel='noreferrer noopener' href="https://www.youtube.com/@holygraildev"><img src={holygraildev} alt="" className='rounded-lg' /></a>
         </div>
       </div>
     </div>
