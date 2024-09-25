@@ -9,6 +9,7 @@ import ContactSection from '../components/contactSection/contactSection';
 import AppFooter from '../components/appFooter/appFooter';
 import ScrollToTop from '../components/scrollToTop/scrollToTop';
 import { toDarkMode } from '../theme/theme';
+import PersonalEvents from '../components/PersonalEvents/PersonalEvents';
 
 
 
@@ -21,6 +22,7 @@ function App() {
       <IntroSection />
       <ProjectSection />
       <SkillsSection />
+      <PersonalEvents />
       <ContactSection />
       <ScrollToTop />
       <AppFooter />

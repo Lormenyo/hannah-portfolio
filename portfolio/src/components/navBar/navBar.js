@@ -49,6 +49,9 @@ function NavBar() {
                 <a href="#Contact" className="block py-2 pl-3 pr-4 text-appBackground dark:text-white font-bold rounded   md:border-0 md:hover:text-appBlue md:p-0 dark:text-white md:dark:hover:text-appBlue dark:hover:text-appBlue ">Contact</a>
               </li>
               <li>
+                <a href="#Events" className="block py-2 pl-3 pr-4 text-appBackground dark:text-white font-bold rounded   md:border-0 md:hover:text-appBlue md:p-0 dark:text-white md:dark:hover:text-appBlue dark:hover:text-appBlue ">Events</a>
+              </li>
+              <li>
               {isDarkMode ? 
                 <button
                   type='button'
